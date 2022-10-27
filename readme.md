@@ -13,6 +13,7 @@ For a general overview on Bluetooth Low Energy (BLE) see this perfect article: "
 available as PDF in the docs folder as well: https://punchthrough.com/android-ble-guide/.
 
 Screenshot of the running app after startup:
+
 ![server_view_after_starting](docs/server00.png?raw=true)
 
 To check that the server is up and running I recommend to install another app on a second device that 
